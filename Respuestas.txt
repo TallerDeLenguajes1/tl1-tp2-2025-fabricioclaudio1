@@ -1,0 +1,11 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+
+No porque esta en otra rama
+
+
+En la rama main agregue un nuevo archivo que se llame Respuestas.txt y realice
+  un commit para agregar este archivo al repositorio.
+En VSCode vuelva al "Source Control" ¿Qué diferencias nota?
+
+La diferencia que noto es que respuestas.txt se agrega a la rama principal y no a la rama Opcion_2
+
